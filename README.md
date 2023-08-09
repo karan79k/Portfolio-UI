@@ -2,7 +2,7 @@
 
 Welcome to the README for my desktop portfolio design! This document provides insights into the design concepts, technologies employed, and features incorporated into my desktop-only portfolio. Whether you're a developer, a prospective employer, or just curious about my work, I hope you find this overview informative.
 
-# Check out -->> https://portfolio-karansaket7974-gmailcom.vercel.app/ (click)
+# Check out -_->> https://portfolio-karansaket7974-gmailcom.vercel.app/ (click)
 
 # Preview
 
